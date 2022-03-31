@@ -1290,4 +1290,9 @@ input[type="text"] {
   opacity: 0;
 }
 
+.timeline-body  li {
+  
+  text-align: left;
+}
+
 /*# sourceMappingURL=style.css.map */
